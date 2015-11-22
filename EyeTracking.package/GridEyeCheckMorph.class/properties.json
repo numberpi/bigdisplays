@@ -1,0 +1,14 @@
+{
+	"category" : "EyeTracking",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "GridEyeCheckMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

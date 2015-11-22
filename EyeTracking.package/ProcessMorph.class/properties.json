@@ -1,0 +1,22 @@
+{
+	"category" : "EyeTracking",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"process",
+		"eyePostionMorph",
+		"topLeftMorph",
+		"bottomRightMorph",
+		"bottomRight",
+		"topLeft",
+		"bottomRightPosition",
+		"topLeftPosition",
+		"cameraPosition" ],
+	"name" : "ProcessMorph",
+	"pools" : [
+		 ],
+	"super" : "SimpleButtonMorph",
+	"type" : "normal" }

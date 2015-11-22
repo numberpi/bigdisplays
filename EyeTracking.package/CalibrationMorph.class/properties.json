@@ -1,0 +1,14 @@
+{
+	"category" : "EyeTracking",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Calibration" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"step" ],
+	"name" : "CalibrationMorph",
+	"pools" : [
+		 ],
+	"super" : "SimpleButtonMorph",
+	"type" : "normal" }

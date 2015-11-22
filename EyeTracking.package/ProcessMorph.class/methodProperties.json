@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"calibrateBottomRight" : "DS 11/18/2015 17:58",
+		"calibrateTopLeft" : "DS 11/18/2015 17:58",
+		"endlessProcessBlock" : "DS 11/18/2015 15:16",
+		"initialize" : "DS 11/18/2015 17:31",
+		"initializeCalibrationMorphs" : "DS 11/18/2015 17:55",
+		"morphAtCross" : "DS 11/18/2015 16:15",
+		"onClick" : "DS 11/18/2015 18:08",
+		"parseInput:" : "DS 11/18/2015 18:02",
+		"processBlock" : "DS 11/18/2015 17:58",
+		"readLineFromStdIn" : "DS 11/18/2015 15:23",
+		"scaleEyeMorphPosition:" : "DS 11/18/2015 18:05" } }

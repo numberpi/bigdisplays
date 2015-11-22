@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"calibration" : "DS 10/28/2015 19:22",
+		"steps" : "DS 10/28/2015 19:14" },
+	"instance" : {
+		"initialize" : "DS 11/18/2015 17:10",
+		"onClick" : "DS 11/11/2015 19:47",
+		"step" : "DS 11/4/2015 15:26",
+		"stepTime" : "DS 11/4/2015 14:52",
+		"updateLabel" : "DS 10/28/2015 19:08" } }

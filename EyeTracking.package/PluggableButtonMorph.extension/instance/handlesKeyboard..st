@@ -1,0 +1,3 @@
+*EyeTracking
+handlesKeyboard: evt
+	^ true

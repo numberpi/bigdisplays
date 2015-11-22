@@ -1,0 +1,16 @@
+{
+	"category" : "EyeTracking",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastTarget",
+		"newTarget",
+		"lastTargetChangeTime" ],
+	"name" : "CrossMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
