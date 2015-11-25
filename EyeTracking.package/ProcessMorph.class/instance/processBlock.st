@@ -10,8 +10,9 @@ processBlock
 		millisecondsSinceLastChange := eyePostionMorph updateTarget: morphAtCross.
 		millisecondsSinceLastChange > 1000
 			ifTrue: [morphAtCross
-					ifNotNil: [ ActiveHand newKeyboardFocus: morphAtCross.
-						eyePostionMorph resetTimer.. ]].
+					ifNotNil: [ (morphAtCross ownerThatIsA: SystemWindow) ifNotNil: [:owner | owner activate ]. 
+						ActiveHand newKeyboardFocus: morphAtCross.
+						eyePostionMorph resetTimer. ]].
 		millisecondsSinceLastChange > 1500
 			ifTrue: [morphAtCross
 					ifNotNil: [ (morphAtCross isKindOf: PluggableButtonMorph)

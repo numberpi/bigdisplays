@@ -1,1 +1,1 @@
-(name 'EyeTracking-DS.1' message 'initial commit' id '01dc21c4-df33-6649-9844-17017422b565' date '22 November 2015' time '3:45:11.17 pm' author 'DS' ancestors () stepChildren ())
+(name 'EyeTracking-DS.2' message 'added Window activation on focus' id '42948b77-e75b-1a4e-a915-e28ad3b979dc' date '25 November 2015' time '2:16:40.392 pm' author 'DS' ancestors () stepChildren ())
