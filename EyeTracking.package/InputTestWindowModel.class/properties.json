@@ -1,0 +1,15 @@
+{
+	"category" : "EyeTracking",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"taskText",
+		"window" ],
+	"name" : "InputTestWindowModel",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }

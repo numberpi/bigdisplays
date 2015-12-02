@@ -1,0 +1,4 @@
+accessing
+onClick
+	self spawnNextInputWindow
+	
