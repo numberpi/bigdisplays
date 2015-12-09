@@ -26,7 +26,7 @@ try:
 except:
 	raise Exception("Error in camtracker: PyGame could not be imported and initialized! :(")
 
-TimeDelta = 0.1
+TimeDelta = 0.05
 OldTime = time.time()
 xPositionSum = 0
 yPositionSum = 0
